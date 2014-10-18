@@ -1,4 +1,4 @@
-CelestialBodies
-===============
+Celestial Bodies:
+=================
 
-A first attempt at an asteroids clone in Haskell
+An Asteroids clone written in Haskell.
